@@ -6,7 +6,8 @@ Justin Bieber themed ping pong ball you can choose to play for usa or canada. Po
 
 # Play
 
-https://mngz47.github.io/bieberpong-static/
+https://mngz47.github.io/bieberpong-static/ <br>
+https://mngz47.itch.io/bieber-pong
 
 # Categories
 
